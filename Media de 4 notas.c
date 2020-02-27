@@ -3,9 +3,9 @@
 int main(void)
 {
 	int cont;
-	float notas,media=0;
+	float notas=0,media=0;
 	for (cont = 1; cont <= 4; cont++){
-		printf("Entre com a %i nota: ",cont);
+		printf("Entre com a %iª nota: ",cont);
 		scanf("%f",&notas);
 		media += notas;
 	}
