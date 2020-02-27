@@ -1,1 +1,1 @@
-Learning C, using Visual Studio Code
+Learning C, using Visual Studio Code + Linux
