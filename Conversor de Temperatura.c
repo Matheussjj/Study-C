@@ -5,7 +5,7 @@ int main(void)
 	int opcao;
 	float fahrenheit, celsius;
 	do{
-		printf("Escolha a opçao:\n\n1 - Fahrenheit para Celsius\n2 - Celsius para Fahrenheit\n\n");
+		printf("Escolha a opção:\n\n1 - Fahrenheit para Celsius\n2 - Celsius para Fahrenheit\n\n");
 		scanf("%i",&opcao);
 		if (opcao == 1){
 			printf("\nEntre com a temperatura em Fahrenheit: ");
