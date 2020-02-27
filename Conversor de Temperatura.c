@@ -20,7 +20,7 @@ int main(void)
 			printf("\nA temperatura em Fahrenheit = %0.2f\n\n",fahrenheit);
 
 		} else{
-			printf("\nOpçao invalidade tente novamente\n\n");
+			printf("\nOpção invalidade tente novamente\n\n");
 			opcao = 0;
 		}
 
